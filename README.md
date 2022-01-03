@@ -3,11 +3,11 @@ Getting and Cleaning Data Course Project
 
 This repository is a submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
-##Dataset
+Dataset
 
 Human Activity Recognition Using Smartphones
 
-##Files
+Files
 
 1) CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
